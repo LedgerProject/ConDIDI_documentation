@@ -1,0 +1,3 @@
+Link to the Jolocom public Repo:
+
+https://github.com/jolocom/smartwallet-app
